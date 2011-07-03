@@ -56,7 +56,7 @@ static const CFTimeInterval kLongPressMinimumDurationSeconds = 0.3;
 
 - (void) initialize
 {
-    self.data = nil;
+    self.data = @"";
     self.indexPath = nil;
     self.delegate = nil;
     self.selectionStyle = UITableViewCellSelectionStyleNone;
