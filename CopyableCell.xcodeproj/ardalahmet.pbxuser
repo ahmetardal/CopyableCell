@@ -70,13 +70,13 @@
 					PBXFileDataSource_Target_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 331395581;
-			PBXWorkspaceStateSaveDate = 331395581;
+			PBXPerProjectTemplateStateSaveDate = 331398138;
+			PBXWorkspaceStateSaveDate = 331398138;
 		};
 		perUserProjectItems = {
 			598304C613C0BAB5009A789F /* PBXTextBookmark */ = 598304C613C0BAB5009A789F /* PBXTextBookmark */;
-			598304C713C0BAB5009A789F /* PBXTextBookmark */ = 598304C713C0BAB5009A789F /* PBXTextBookmark */;
 			598304C813C0BAB5009A789F /* PBXTextBookmark */ = 598304C813C0BAB5009A789F /* PBXTextBookmark */;
+			598304D713C0BC08009A789F /* PBXTextBookmark */ = 598304D713C0BC08009A789F /* PBXTextBookmark */;
 			598BF21A13B59FA200853436 /* PBXTextBookmark */ = 598BF21A13B59FA200853436 /* PBXTextBookmark */;
 			59BE80B213A15ED800ADE3E3 /* PBXTextBookmark */ = 59BE80B213A15ED800ADE3E3 /* PBXTextBookmark */;
 			59BE80B413A15ED800ADE3E3 /* PBXTextBookmark */ = 59BE80B413A15ED800ADE3E3 /* PBXTextBookmark */;
@@ -96,16 +96,6 @@
 		vrLen = 1424;
 		vrLoc = 0;
 	};
-	598304C713C0BAB5009A789F /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 59BE805F13A11CDE00ADE3E3 /* CopyableCell.m */;
-		name = "CopyableCell.m: 59";
-		rLen = 0;
-		rLoc = 1487;
-		rType = 0;
-		vrLen = 2118;
-		vrLoc = 843;
-	};
 	598304C813C0BAB5009A789F /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = 59BE805F13A11CDE00ADE3E3 /* CopyableCell.m */;
@@ -114,6 +104,16 @@
 		rLoc = 2372;
 		rType = 0;
 		vrLen = 2151;
+		vrLoc = 810;
+	};
+	598304D713C0BC08009A789F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 59BE805F13A11CDE00ADE3E3 /* CopyableCell.m */;
+		name = "CopyableCell.m: 59";
+		rLen = 0;
+		rLoc = 1494;
+		rType = 0;
+		vrLen = 2150;
 		vrLoc = 810;
 	};
 	598BF21A13B59FA200853436 /* PBXTextBookmark */ = {
@@ -181,8 +181,8 @@
 		uiCtxt = {
 			sepNavFolds = "{\n    c =     (\n                {\n            r = \"{1220, 154}\";\n            s = 0;\n        },\n                {\n            r = \"{1400, 50}\";\n            s = 0;\n        },\n                {\n            r = \"{1972, 53}\";\n            s = 0;\n        },\n                {\n            r = \"{2046, 77}\";\n            s = 0;\n        },\n                {\n            r = \"{2243, 127}\";\n            s = 0;\n        },\n                {\n            r = \"{2399, 429}\";\n            s = 0;\n        },\n                {\n            r = \"{2865, 17}\";\n            s = 0;\n        },\n                {\n            r = \"{2916, 42}\";\n            s = 0;\n        },\n                {\n            r = \"{3028, 234}\";\n            s = 0;\n        },\n                {\n            r = \"{3319, 393}\";\n            s = 0;\n        },\n                {\n            r = \"{3769, 682}\";\n            s = 0;\n        },\n                {\n            r = \"{4607, 620}\";\n            s = 0;\n        }\n    );\n    r = \"{0, 5235}\";\n    s = 0;\n}";
 			sepNavIntBoundsRect = "{{0, 0}, {1470, 1764}}";
-			sepNavSelRange = "{1916, 0}";
-			sepNavVisRange = "{810, 1210}";
+			sepNavSelRange = "{1292, 0}";
+			sepNavVisRange = "{810, 1209}";
 		};
 	};
 	59BE80B213A15ED800ADE3E3 /* PBXTextBookmark */ = {
