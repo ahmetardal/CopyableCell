@@ -327,15 +327,15 @@
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>598304D713C0BC08009A789F</string>
+										<string>598954F213C3381900DDE56D</string>
 										<key>history</key>
 										<array>
 											<string>59BE80B213A15ED800ADE3E3</string>
 											<string>59BE80B413A15ED800ADE3E3</string>
 											<string>59BE80B513A15ED800ADE3E3</string>
-											<string>598BF21A13B59FA200853436</string>
 											<string>598304C613C0BAB5009A789F</string>
-											<string>598304C813C0BAB5009A789F</string>
+											<string>598954F013C3381900DDE56D</string>
+											<string>598954F113C3381900DDE56D</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -393,9 +393,9 @@
 			</array>
 			<key>TableOfContents</key>
 			<array>
-				<string>598304D813C0BC08009A789F</string>
+				<string>598954BC13C3359A00DDE56D</string>
 				<string>1CE0B1FE06471DED0097A5F4</string>
-				<string>598304D913C0BC08009A789F</string>
+				<string>598954BD13C3359A00DDE56D</string>
 				<string>1CE0B20306471E060097A5F4</string>
 				<string>1CE0B20506471E060097A5F4</string>
 			</array>
@@ -533,6 +533,7 @@
 	<integer>5</integer>
 	<key>WindowOrderList</key>
 	<array>
+		<string>1CD10A99069EF8BA00B06720</string>
 		<string>59BE805913A11C8000ADE3E3</string>
 		<string>/Users/ardalahmet/Documents/Projects/CopyableCell/CopyableCell.xcodeproj</string>
 	</array>
@@ -614,7 +615,7 @@
 			<key>TableOfContents</key>
 			<array>
 				<string>59BE805913A11C8000ADE3E3</string>
-				<string>598304DA13C0BC08009A789F</string>
+				<string>598954BE13C3359A00DDE56D</string>
 				<string>1CD0528F0623707200166675</string>
 				<string>XCMainBuildResultsModuleGUID</string>
 			</array>
@@ -658,8 +659,8 @@
 										<string>yes</string>
 										<key>sizes</key>
 										<array>
-											<string>{{0, 0}, {316, 194}}</string>
-											<string>{{316, 0}, {378, 194}}</string>
+											<string>{{0, 0}, {316, 198}}</string>
+											<string>{{316, 0}, {378, 198}}</string>
 										</array>
 									</dict>
 									<key>VerticalSplitView</key>
@@ -674,8 +675,8 @@
 										<string>yes</string>
 										<key>sizes</key>
 										<array>
-											<string>{{0, 0}, {694, 194}}</string>
-											<string>{{0, 194}, {694, 187}}</string>
+											<string>{{0, 0}, {694, 198}}</string>
+											<string>{{0, 198}, {694, 183}}</string>
 										</array>
 									</dict>
 								</dict>
@@ -708,7 +709,7 @@
 										<real>148</real>
 									</array>
 									<key>Frame</key>
-									<string>{{316, 0}, {378, 194}}</string>
+									<string>{{316, 0}, {378, 198}}</string>
 									<key>RubberWindowFrame</key>
 									<string>21 613 694 422 0 0 1920 1058 </string>
 								</dict>
@@ -736,13 +737,13 @@
 			<key>TableOfContents</key>
 			<array>
 				<string>1CD10A99069EF8BA00B06720</string>
-				<string>598304C913C0BAB5009A789F</string>
+				<string>598954F313C3381900DDE56D</string>
 				<string>1C162984064C10D400B95A72</string>
-				<string>598304CA13C0BAB5009A789F</string>
-				<string>598304CB13C0BAB5009A789F</string>
-				<string>598304CC13C0BAB5009A789F</string>
-				<string>598304CD13C0BAB5009A789F</string>
-				<string>598304CE13C0BAB5009A789F</string>
+				<string>598954F413C3381900DDE56D</string>
+				<string>598954F513C3381900DDE56D</string>
+				<string>598954F613C3381900DDE56D</string>
+				<string>598954F713C3381900DDE56D</string>
+				<string>598954F813C3381900DDE56D</string>
 			</array>
 			<key>ToolbarConfiguration</key>
 			<string>xcode.toolbar.config.debugV3</string>

@@ -29,10 +29,10 @@
 	};
 	28D7ACF70DDB3853001CB0EB /* CopyableCellViewController.m */ = {
 		uiCtxt = {
-			sepNavFolds = "{\n    c =     (\n                {\n            r = \"{303, 405}\";\n            s = 0;\n        },\n                {\n            r = \"{794, 149}\";\n            s = 0;\n        },\n                {\n            r = \"{969, 50}\";\n            s = 0;\n        },\n                {\n            r = \"{1044, 26}\";\n            s = 0;\n        },\n                {\n            r = \"{1167, 17}\";\n            s = 0;\n        },\n                {\n            r = \"{1221, 38}\";\n            s = 0;\n        },\n                {\n            r = \"{1286, 28}\";\n            s = 0;\n        },\n                {\n            r = \"{1335, 86}\";\n            s = 0;\n        },\n                {\n            r = \"{1559, 15}\";\n            s = 0;\n        },\n                {\n            r = \"{1668, 34}\";\n            s = 0;\n        },\n                {\n            r = \"{1811, 562}\";\n            s = 0;\n        },\n                {\n            r = \"{2526, 115}\";\n            s = 0;\n        },\n                {\n            r = \"{2737, 72}\";\n            s = 0;\n        },\n                {\n            r = \"{2910, 133}\";\n            s = 0;\n        }\n    );\n    r = \"{0, 3051}\";\n    s = 0;\n}";
-			sepNavIntBoundsRect = "{{0, 0}, {1470, 1188}}";
-			sepNavSelRange = "{974, 0}";
-			sepNavVisRange = "{282, 1053}";
+			sepNavFolds = "{\n    c =     (\n                {\n            r = \"{303, 405}\";\n            s = 0;\n        },\n                {\n            r = \"{794, 149}\";\n            s = 0;\n        },\n                {\n            r = \"{969, 50}\";\n            s = 0;\n        },\n                {\n            r = \"{1044, 26}\";\n            s = 0;\n        },\n                {\n            r = \"{1167, 17}\";\n            s = 0;\n        },\n                {\n            r = \"{1221, 38}\";\n            s = 0;\n        },\n                {\n            r = \"{1286, 28}\";\n            s = 0;\n        },\n                {\n            r = \"{1335, 86}\";\n            s = 0;\n        }\n    );\n    r = \"{0, 3051}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {1470, 1692}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 914}";
 		};
 	};
 	29B97313FDCFA39411CA2CEA /* Project object */ = {
@@ -70,14 +70,14 @@
 					PBXFileDataSource_Target_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 331398138;
-			PBXWorkspaceStateSaveDate = 331398138;
+			PBXPerProjectTemplateStateSaveDate = 331560343;
+			PBXWorkspaceStateSaveDate = 331560343;
 		};
 		perUserProjectItems = {
 			598304C613C0BAB5009A789F /* PBXTextBookmark */ = 598304C613C0BAB5009A789F /* PBXTextBookmark */;
-			598304C813C0BAB5009A789F /* PBXTextBookmark */ = 598304C813C0BAB5009A789F /* PBXTextBookmark */;
-			598304D713C0BC08009A789F /* PBXTextBookmark */ = 598304D713C0BC08009A789F /* PBXTextBookmark */;
-			598BF21A13B59FA200853436 /* PBXTextBookmark */ = 598BF21A13B59FA200853436 /* PBXTextBookmark */;
+			598954F013C3381900DDE56D /* PBXTextBookmark */ = 598954F013C3381900DDE56D /* PBXTextBookmark */;
+			598954F113C3381900DDE56D /* PBXTextBookmark */ = 598954F113C3381900DDE56D /* PBXTextBookmark */;
+			598954F213C3381900DDE56D /* PBXTextBookmark */ = 598954F213C3381900DDE56D /* PBXTextBookmark */;
 			59BE80B213A15ED800ADE3E3 /* PBXTextBookmark */ = 59BE80B213A15ED800ADE3E3 /* PBXTextBookmark */;
 			59BE80B413A15ED800ADE3E3 /* PBXTextBookmark */ = 59BE80B413A15ED800ADE3E3 /* PBXTextBookmark */;
 			59BE80B513A15ED800ADE3E3 /* PBXTextBookmark */ = 59BE80B513A15ED800ADE3E3 /* PBXTextBookmark */;
@@ -96,35 +96,35 @@
 		vrLen = 1424;
 		vrLoc = 0;
 	};
-	598304C813C0BAB5009A789F /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 59BE805F13A11CDE00ADE3E3 /* CopyableCell.m */;
-		name = "CopyableCell.m: 94";
-		rLen = 0;
-		rLoc = 2372;
-		rType = 0;
-		vrLen = 2151;
-		vrLoc = 810;
-	};
-	598304D713C0BC08009A789F /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 59BE805F13A11CDE00ADE3E3 /* CopyableCell.m */;
-		name = "CopyableCell.m: 59";
-		rLen = 0;
-		rLoc = 1494;
-		rType = 0;
-		vrLen = 2150;
-		vrLoc = 810;
-	};
-	598BF21A13B59FA200853436 /* PBXTextBookmark */ = {
+	598954F013C3381900DDE56D /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = 28D7ACF70DDB3853001CB0EB /* CopyableCellViewController.m */;
-		name = "CopyableCellViewController.m: 97";
+		name = "CopyableCellViewController.m: 1";
 		rLen = 0;
-		rLoc = 2373;
+		rLoc = 0;
 		rType = 0;
-		vrLen = 2769;
-		vrLoc = 282;
+		vrLen = 1705;
+		vrLoc = 0;
+	};
+	598954F113C3381900DDE56D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 59BE805F13A11CDE00ADE3E3 /* CopyableCell.m */;
+		name = "CopyableCell.m: 55";
+		rLen = 0;
+		rLoc = 1451;
+		rType = 0;
+		vrLen = 4179;
+		vrLoc = 1056;
+	};
+	598954F213C3381900DDE56D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 59BE805F13A11CDE00ADE3E3 /* CopyableCell.m */;
+		name = "CopyableCell.m: 8";
+		rLen = 0;
+		rLoc = 207;
+		rType = 0;
+		vrLen = 2028;
+		vrLoc = 0;
 	};
 	59BE804313A11C6200ADE3E3 /* CopyableCell */ = {
 		isa = PBXExecutable;
@@ -179,10 +179,10 @@
 	};
 	59BE805F13A11CDE00ADE3E3 /* CopyableCell.m */ = {
 		uiCtxt = {
-			sepNavFolds = "{\n    c =     (\n                {\n            r = \"{1220, 154}\";\n            s = 0;\n        },\n                {\n            r = \"{1400, 50}\";\n            s = 0;\n        },\n                {\n            r = \"{1972, 53}\";\n            s = 0;\n        },\n                {\n            r = \"{2046, 77}\";\n            s = 0;\n        },\n                {\n            r = \"{2243, 127}\";\n            s = 0;\n        },\n                {\n            r = \"{2399, 429}\";\n            s = 0;\n        },\n                {\n            r = \"{2865, 17}\";\n            s = 0;\n        },\n                {\n            r = \"{2916, 42}\";\n            s = 0;\n        },\n                {\n            r = \"{3028, 234}\";\n            s = 0;\n        },\n                {\n            r = \"{3319, 393}\";\n            s = 0;\n        },\n                {\n            r = \"{3769, 682}\";\n            s = 0;\n        },\n                {\n            r = \"{4607, 620}\";\n            s = 0;\n        }\n    );\n    r = \"{0, 5235}\";\n    s = 0;\n}";
-			sepNavIntBoundsRect = "{{0, 0}, {1470, 1764}}";
-			sepNavSelRange = "{1292, 0}";
-			sepNavVisRange = "{810, 1209}";
+			sepNavFolds = "{\n    c =     (\n                {\n            r = \"{1220, 154}\";\n            s = 0;\n        },\n                {\n            r = \"{1400, 50}\";\n            s = 0;\n        },\n                {\n            r = \"{1474, 434}\";\n            s = 0;\n        },\n                {\n            r = \"{1972, 53}\";\n            s = 0;\n        },\n                {\n            r = \"{2046, 77}\";\n            s = 0;\n        },\n                {\n            r = \"{2243, 127}\";\n            s = 0;\n        },\n                {\n            r = \"{2399, 429}\";\n            s = 0;\n        },\n                {\n            r = \"{2865, 17}\";\n            s = 0;\n        },\n                {\n            r = \"{2916, 42}\";\n            s = 0;\n        },\n                {\n            r = \"{3028, 234}\";\n            s = 0;\n        },\n                {\n            r = \"{3319, 393}\";\n            s = 0;\n        },\n                {\n            r = \"{3769, 682}\";\n            s = 0;\n        },\n                {\n            r = \"{4607, 620}\";\n            s = 0;\n        }\n    );\n    r = \"{0, 5235}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {1470, 1602}}";
+			sepNavSelRange = "{207, 0}";
+			sepNavVisRange = "{0, 1341}";
 		};
 	};
 	59BE80B213A15ED800ADE3E3 /* PBXTextBookmark */ = {
